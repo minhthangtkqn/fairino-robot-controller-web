@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    line-height: 1.5;
+}
+
+html {
+    font-size: 14px;
+}
+
+.truncate {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+::-webkit-scrollbar {
+    width: calc(var(--spacing-sm) * 0.8);
+}
+
+::-webkit-scrollbar-track {
+    background: var(--sub-tertiaryLighter);
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--sub-tertiaryDarker);
+    border-radius: var(--br);
+    cursor: pointer;
+
+    &:hover {
+        background: var(--main-tertiaryDarker);
+    }
+}

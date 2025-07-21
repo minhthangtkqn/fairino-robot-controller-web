@@ -1,0 +1,17 @@
+.layout-base {
+    display: flex;
+    overflow: hidden;
+    height: calc(100vh - var(--navbar-height));
+
+    .primary {
+        flex: 3;
+    }
+
+    .secondary {
+        flex: 1;
+    }
+
+    .extension {
+        flex: 1;
+    }
+}
