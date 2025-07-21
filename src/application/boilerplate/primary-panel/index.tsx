@@ -41,42 +41,6 @@ export const PrimaryPanel: React.FC = () => {
             <div>Primary</div>
             <div>Primary</div>
             <div>Primary</div>
-            <div>Primary</div>
-            <div>Primary</div>
-            <div>Primary</div>
-            <div>Primary</div>
-            <div>Primary</div>
-            <div>Primary</div>
-            <div>Primary</div>
-            <div>Primary</div>
-            <div>Primary</div>
-            <div>Primary</div>
-            <div>Primary</div>
-            <div>Primary</div>
-            <div>Primary</div>
-            <div>Primary</div>
-            <div>Primary</div>
-            <div>Primary</div>
-            <div>Primary</div>
-            <div>Primary</div>
-            <div>Primary</div>
-            <div>Primary</div>
-            <div>Primary</div>
-            <div>Primary</div>
-            <div>Primary</div>
-            <div>Primary</div>
-            <div>Primary</div>
-            <div>Primary</div>
-            <div>Primary</div>
-            <div>Primary</div>
-            <div>Primary</div>
-            <div>Primary</div>
-            <div>Primary</div>
-            <div>Primary</div>
-            <div>Primary</div>
-            <div>Primary</div>
-            <div>Primary</div>
-            <div>Primary</div>
         </StyledPrimaryPanel>
     );
 };
